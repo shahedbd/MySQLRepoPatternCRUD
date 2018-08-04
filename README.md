@@ -1,2 +1,2 @@
-# MySQLRepoPatternCRUD
-ASP.NET Core and MySQL Repository Pattern CRUD
+# ASP.NET CRUD in MySQL
+ASP.NET Core with MySQL Repository Pattern CRUD
