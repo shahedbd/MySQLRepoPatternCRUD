@@ -21,7 +21,7 @@ namespace Web.MySQLCRUD.Controllers
 
         // GET api/values
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<string>>> Get()
+        public async Task<ActionResult<IEnumerable<string>>> GetAll()
         {
             string MySQLQuery = "select * from basicinfo;";
             IEnumerable<BasicInfo> list = await Uow.TblBasicInfo.GetAll(MySQLQuery);
