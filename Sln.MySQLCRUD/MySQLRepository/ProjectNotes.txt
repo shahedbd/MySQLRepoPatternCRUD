@@ -1,0 +1,9 @@
+﻿
+Install-Package MySqlConnector -Version 0.43.0
+Install-Package System.Configuration.ConfigurationManager -Version 4.5.0
+
+
+http://localhost:12961/api/values
+
+http://localhost:12961/api/BasicInfo
+
