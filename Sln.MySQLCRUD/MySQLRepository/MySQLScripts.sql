@@ -12,6 +12,9 @@ END
 CALL SPGetbasicinfo (3);
 
 
+-- Need to Create SP for CRUD by if numbering
+
+
 -- Table `devtest`.`basicinfo`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `devtest`.`basicinfo` (
