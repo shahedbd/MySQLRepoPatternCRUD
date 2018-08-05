@@ -7,3 +7,6 @@ http://localhost:12961/api/values
 
 http://localhost:12961/api/BasicInfo
 
+MySQL SP Ref:
+https://www.aspsnippets.com/Articles/Call-MySql-Stored-Procedure-with-Parameters-in-ASPNet-C-and-VBNet.aspx
+
