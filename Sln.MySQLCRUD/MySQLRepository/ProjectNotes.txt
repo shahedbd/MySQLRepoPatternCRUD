@@ -11,4 +11,6 @@ MySQL SP Ref:
 https://www.aspsnippets.com/Articles/Call-MySql-Stored-Procedure-with-Parameters-in-ASPNet-C-and-VBNet.aspx
 
 
-TMP:
+An Introduction to Stored Procedures in MySQL 5
+https://code.tutsplus.com/articles/an-introduction-to-stored-procedures-in-mysql-5--net-17843
+
